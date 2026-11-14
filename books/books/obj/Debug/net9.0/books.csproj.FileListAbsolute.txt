@@ -1,0 +1,14 @@
+E:\books\books\bin\Debug\net9.0\books.exe
+E:\books\books\bin\Debug\net9.0\books.deps.json
+E:\books\books\bin\Debug\net9.0\books.runtimeconfig.json
+E:\books\books\bin\Debug\net9.0\books.dll
+E:\books\books\bin\Debug\net9.0\books.pdb
+E:\books\books\obj\Debug\net9.0\books.GeneratedMSBuildEditorConfig.editorconfig
+E:\books\books\obj\Debug\net9.0\books.AssemblyInfoInputs.cache
+E:\books\books\obj\Debug\net9.0\books.AssemblyInfo.cs
+E:\books\books\obj\Debug\net9.0\books.csproj.CoreCompileInputs.cache
+E:\books\books\obj\Debug\net9.0\books.dll
+E:\books\books\obj\Debug\net9.0\refint\books.dll
+E:\books\books\obj\Debug\net9.0\books.pdb
+E:\books\books\obj\Debug\net9.0\books.genruntimeconfig.cache
+E:\books\books\obj\Debug\net9.0\ref\books.dll
